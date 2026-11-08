@@ -27,7 +27,7 @@ I'm passionate about technology, software development, and creating modern digit
 ### 🌐 Connect With Me
 
 - GitHub: [@gokcilhazal](https://github.com/gokcilhazal)
-- Email: violansdigital@gmail.com
+- Email: hazalgokcil22@gmail.com
 
 ---
 
